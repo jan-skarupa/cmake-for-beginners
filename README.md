@@ -1,1 +1,0 @@
-# cmake-for-beginners
