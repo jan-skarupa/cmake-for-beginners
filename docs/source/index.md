@@ -4,4 +4,4 @@ So, how it works? The build process is defined in platform and compiler independ
 
 CMake then uses [Generator](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html) to create build files for native build system. On Linux these would be Makefiles by default. But you can select Ninja generator and others. There are also [Extra Generator](https://cmake.org/cmake/help/latest/manual/cmake-generators.7.html#extra-generators) to support IDE integration. See documentation for complete list.
 
-![](diagram.png)
+![Alt Text](https://github.com/jan-skarupa/cmake-for-beginners/blob/master/docs/source/diagram.png)
